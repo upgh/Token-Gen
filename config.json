@@ -1,0 +1,12 @@
+{
+    "captcha_key": "Captchakey", 
+    "invite": "Invite dont need",
+    "threads": 100,
+    "proxy_scraper": "y",
+
+    "online_tokens": "y",
+
+    "join_voice": "n",
+    "channel_id": "dont need",
+    "server_id": "done need"
+}
